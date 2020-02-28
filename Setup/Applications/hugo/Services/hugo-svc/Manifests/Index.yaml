@@ -3,5 +3,6 @@ type: APPLICATION_MANIFEST
 gitFileConfig:
   branch: master
   connectorName: ph-app
+  filePath: Services/hugo-svc/Manifests/Files
   useBranch: true
 storeType: Remote
